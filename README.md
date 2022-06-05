@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, eu sou o Joathan!</h1>
+<h1 align="left">Olá, eu sou o Joathan!</h1>
 
 <div align="center">
   <a href="https://github.com/joathanmf">
