@@ -13,16 +13,10 @@
   <a href="https://elixir-lang.org/">
     <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
   </a>
-  <a href="https://elixir-lang.org/">
-    <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+  <a href="https://www.ruby-lang.org/pt/">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   </a>
-  <a href="https://elixir-lang.org/">
-    <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-  </a>
-  <a href="https://elixir-lang.org/">
-    <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-  </a>
-  <a href="https://elixir-lang.org/">
-    <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </div>     
