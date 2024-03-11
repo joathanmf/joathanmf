@@ -1,16 +1,13 @@
 <h1 align="left">👋 Olá, mundo!</h1>
 
 <div align="justify">
-  <p>Me chamo Joathan! Sou um desenvolvedor backend apaixonado por tecnologia. Atualmente, trabalho na equipe da MetaOriginal, onde sou responsável pelo desenvolvimento da arquitetura backend de uma aplicação web com Ruby on Rails.
-<br><br>Também estou aprendendo Elixir e Kotlin, duas linguagens poderosas que podem ser usadas para criar aplicações backend. Sou focado em backend e tenho uma boa compreensão de modelagem de banco de dados. Sempre estou procurando novas oportunidades para aprender e crescer.
+  <p>Me chamo Joathan! Sou um desenvolvedor apaixonado por tecnologia. Atualmente, trabalho com backend em uma aplicação web Ruby on Rails.
 <br><br>Sinta-se à vontade para explorar meus projetos e descobrir como posso ajudar a impulsionar suas ideias para o próximo nível!</p>
 </div>
 
 🧑🏻‍🎓 Formado em Ciência da Computação
 <br>
 🐱 Dono da Eli
-<br>
-🎮 Apaixonado por Jogos
 <br>
 💻 Meu [Linkedin](https://www.linkedin.com/in/joathan/)
 
