@@ -1,7 +1,7 @@
 <h1 align="left">👋 Olá, mundo!</h1>
 
 <div align="justify">
-  <p>Me chamo Joathan! Sou um desenvolvedor apaixonado por tecnologia. Atualmente, trabalho com backend em uma aplicação web Ruby on Rails.
+  <p>Me chamo Joathan! Sou um desenvolvedor apaixonado por tecnologia. Atualmente, trabalho como fullstack em uma aplicação web Ruby on Rails.
 <br><br>Sinta-se à vontade para explorar meus projetos e descobrir como posso ajudar a impulsionar suas ideias para o próximo nível!</p>
 </div>
 
